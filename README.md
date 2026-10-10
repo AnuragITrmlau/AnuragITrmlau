@@ -1,39 +1,137 @@
+
 <h1 align="center">Hi 👋, I'm Anurag Pasi</h1>
-<h3 align="center">A passionate frontend developer and programmer from India</h3>
+<h3 align="center">Python Engineer | AI/ML Enthusiast | Full-Stack Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragitrmlau&label=Profile%20views&color=0e75b6&style=flat" alt="anuragitrmlau" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragitrmlau" alt="anuragitrmlau" /></a> </p>
-
-- 🔭 I’m currently working on **PixelPaws Ai**
-
-- 🌱 I’m currently learning **Machine Learning ,AI ,Deep Learning**
-
-- 👯 I’m looking to collaborate on **Qbit**
-
-- 💬 Ask me about **Python,React.js,CSS,HTML,C++,C**
-
-- 📫 How to reach me **pasianurag7@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/anurag7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anurag7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anurag-pasi-80a138259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-pasi-80a138259" height="30" width="40" /></a>
-<a href="https://fb.com/anuragpasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuragpasi" height="30" width="40" /></a>
-<a href="https://instagram.com/anurag_pasi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_pasi_02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pasianurag7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pasianurag7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/pasianlm1u/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/pasianlm1u/" height="30" width="40" /></a>
-<a href="/https://kb.wprssaggregator.com/article/55-how-to-find-an-rss-feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kb.wprssaggregator.com/article/55-how-to-find-an-rss-feed" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnuragITrmlau&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnuragITrmlau&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragitrmlau&show_icons=true&locale=en&layout=compact" alt="anuragitrmlau" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragitrmlau&show_icons=true&locale=en" alt="anuragitrmlau" /></p>
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/AnuragITrmlau/AnuragITrmlau/main/coding.gif" />
 
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **PixelPaws AI**
+- 🌱 Learning **Machine Learning, Deep Learning & Artificial Intelligence**
+- 🤝 Interested in collaborating on **Qbit and AI-powered projects**
+- 💬 Ask me about **Python, FastAPI, React.js, HTML, CSS, C and C++**
+- 📫 Reach me at **[pasianurag7@gmail.com](mailto:pasianurag7@gmail.com)**
+- 🌐 Explore my work: **[GitHub Repositories](https://github.com/AnuragITrmlau?tab=repositories)**
+- ⚡ I enjoy building projects, solving problems, and learning new technologies.
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Languages and Tools
+
+#### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" alt="Programming Languages" />
+</p>
+
+#### 🌐 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" alt="Frontend Technologies" />
+</p>
+
+#### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="Backend Technologies" />
+</p>
+
+#### 🤖 AI, Machine Learning & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and Machine Learning" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+</p>
+
+#### 🗄️ Databases & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,gcp,aws" alt="Databases and Cloud" />
+</p>
+
+#### 🔧 Tools & Other Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,blender,photoshop,illustrator" alt="Developer Tools" />
+</p>
+
+---
+
+### 🚀 Projects & Interests
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MORAA Studio</h3>
+      <p align="center">
+        An ongoing project focused on AI-powered capabilities.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Qbit</h3>
+      <p align="center">
+        An AI assistant project exploring intelligent and helpful interactions.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/AnuragITrmlau?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnuragITrmlau&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragITrmlau&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnuragITrmlau&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anurag-pasi-80a138259" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/anurag7" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" width="42" height="42" alt="DEV Community" />
+  </a>
+  <a href="https://instagram.com/anurag_pasi_02" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="42" height="42" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/anuragpasi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="42" height="42" alt="Facebook" />
+  </a>
+  <a href="mailto:pasianurag7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building, learning, and improving — one commit at a time."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my work interesting, feel free to explore my repositories!
+</p>
